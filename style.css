@@ -1,0 +1,36 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+
+section#main {
+background-image: url(img/bg.jpg);
+height: 100vh;
+}
+
+img.deer {
+	width: 250px;
+}
+
+img.basket {
+	width: 32px;
+}
+
+section#example-1 {
+	background-image: url(img/deer.jpg);
+	background-position: center center;
+	width: 100%;
+	height: 300px;
+}
+
+section#example-2 {
+	height: 100vh;
+	color: #fff;
+	background-image: url(img/4-tekstura-krupnogo-temnogo-karbona.png);
+}
+
+footer {
+	background-color: #000;
+	height: 100px;
+}
